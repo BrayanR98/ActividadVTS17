@@ -3,6 +3,13 @@
 2.Despedir
 3.salir"""
 
-while(){
-  
-}
+while():
+  if(r == 1):
+    print("Hola")
+  elif (r == 2):
+    print("Despedir")
+  elif(r == 3):
+    break
+else:
+    print("Ingrese un numero valido")
+
